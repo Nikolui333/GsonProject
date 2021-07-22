@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
         GsonParser gsonParser = new GsonParser();
         Example example = gsonParser.parser(this);
 
-        Log.d("log1",example.toString());
+
+        Log.d("log1",example.quote.body);
 
     }
 }
