@@ -41,5 +41,4 @@ public class Quote {
     @SerializedName("body")
     @Expose
     public String body;
-
 }

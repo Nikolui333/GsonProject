@@ -1,5 +1,8 @@
-{"qotd_date":"2021-07-22T00:00:00+00:00",
-  "quote":{"id":63363,
+{
+  "qotd_date":"2021-07-22T00:00:00+00:00",
+  "quote":
+  {
+    "id":63363,
     "dialogue":false,
     "private":false,
     "tags":[],
